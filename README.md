@@ -1,0 +1,1 @@
+This is my final project for my software engineering diploma course. At MANAWADU-ELECTRONICS, I take great satisfaction in offering a state-of-the-art platform where customers can fully engage with a realm of ingenious electronic devices.

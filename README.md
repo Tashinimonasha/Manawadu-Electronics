@@ -72,4 +72,4 @@ MANAWADU-ELECTRONICS is an automated web platform designed for the buying and se
 
 ---
 
-This README provides a clear overview of your project, how to set it up, and the features it offers. You can adjust any details to match your project's exact configuration.
+ 

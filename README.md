@@ -72,4 +72,4 @@ MANAWADU-ELECTRONICS is an automated web platform designed for the buying and se
 
 ---
 
- 
+ Create this for Diploma final year project
